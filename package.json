@@ -13,7 +13,7 @@
     "cors": "^2.8.1",
     "express": "^4.15.2",
     "jsonwebtoken": "^7.3.0",
-    "mongoose": "^4.9.1",
+    "mongoose": "^5.7.5",
     "morgan": "^1.8.1",
     "request": "^2.81.0",
     "seq": "^0.3.5",
